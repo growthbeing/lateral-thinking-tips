@@ -20,3 +20,7 @@
 
 Remember, lateral thinking is a skill that can be developed with practice. Keep an open mind and be willing to explore new ideas to enhance your problem-solving abilities.
 
+### Resources :book:
+
+- **Lateral Thinking Puzzles** - [https://www.puzzlesandriddles.com/LateralThinking.html](https://www.puzzlesandriddles.com/LateralThinking.html)
+
